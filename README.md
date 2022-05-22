@@ -1,4 +1,4 @@
-# Landing Page Jardening 
+# Landing Page Gardening 
 ## Available Scripts
 
 In the project directory, you can run:
